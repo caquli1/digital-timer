@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digital-timer/static/css/main.c3787b25.css",
+    "main.js": "/digital-timer/static/js/main.bbeeacdc.js",
+    "static/js/488.edc988c8.chunk.js": "/digital-timer/static/js/488.edc988c8.chunk.js",
+    "index.html": "/digital-timer/index.html",
+    "main.c3787b25.css.map": "/digital-timer/static/css/main.c3787b25.css.map",
+    "main.bbeeacdc.js.map": "/digital-timer/static/js/main.bbeeacdc.js.map",
+    "488.edc988c8.chunk.js.map": "/digital-timer/static/js/488.edc988c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3787b25.css",
+    "static/js/main.bbeeacdc.js"
+  ]
+}
